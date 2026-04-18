@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Indo Pay – a Flutter-based fintech app with modern UI, payments flow, and scalable architecture  <br><br>👯 I’m looking to collaborate on Full-stack (MERN) projects, fintech apps, and real-world problem-solving platforms  <br><br>🤝 I’m looking for help with Scaling applications, system design, and integrating secure payment systems  <br><br>🌱 I’m currently learning Advanced Flutter, backend optimization, and machine learning concepts  <br><br>💬 Ask me about MERN stack, Flutter app development, Git/GitHub workflows, and building real-world projects  <br><br>⚡ Fun fact I enjoy turning ideas into real products and debugging feels like solving puzzles to me 🚀  
-
+🔭 Getting hands-on with AI/ML and building real-world projects  
+👯 Open to collaborate on MERN stack & impactful applications  
+🤝 Looking for help with system design, scaling & secure integrations  
+🌱 Learning Flutter & improving backend performance    
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/iamankoo/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_ankoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-raj-software-engineer/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@iamankoo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Aniketraj00384@gmail.com) 
